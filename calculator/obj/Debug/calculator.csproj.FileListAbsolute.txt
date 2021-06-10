@@ -1,0 +1,9 @@
+D:\CoSoLapTrinh\CSLT3_23\calculator\calculator\bin\Debug\calculator.exe.config
+D:\CoSoLapTrinh\CSLT3_23\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\CoSoLapTrinh\CSLT3_23\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\CoSoLapTrinh\CSLT3_23\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\CoSoLapTrinh\CSLT3_23\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\CoSoLapTrinh\CSLT3_23\calculator\calculator\bin\Debug\calculator.exe
+D:\CoSoLapTrinh\CSLT3_23\calculator\calculator\bin\Debug\calculator.pdb
+D:\CoSoLapTrinh\CSLT3_23\calculator\calculator\obj\Debug\calculator.exe
+D:\CoSoLapTrinh\CSLT3_23\calculator\calculator\obj\Debug\calculator.pdb
