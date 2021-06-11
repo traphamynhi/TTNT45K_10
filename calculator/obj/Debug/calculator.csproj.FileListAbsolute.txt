@@ -7,3 +7,6 @@ D:\CoSoLapTrinh\CSLT3_23\calculator\calculator\bin\Debug\calculator.exe
 D:\CoSoLapTrinh\CSLT3_23\calculator\calculator\bin\Debug\calculator.pdb
 D:\CoSoLapTrinh\CSLT3_23\calculator\calculator\obj\Debug\calculator.exe
 D:\CoSoLapTrinh\CSLT3_23\calculator\calculator\obj\Debug\calculator.pdb
+D:\github\TTNT45K_10\calculator\bin\Debug\calculator.exe.config
+D:\github\TTNT45K_10\calculator\obj\Debug\calculator.exe
+D:\github\TTNT45K_10\calculator\obj\Debug\calculator.pdb
