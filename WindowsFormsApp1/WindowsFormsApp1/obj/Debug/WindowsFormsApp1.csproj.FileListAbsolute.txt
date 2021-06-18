@@ -1,0 +1,15 @@
+D:\CoSoLapTrinh\CSLT3_23\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\CoSoLapTrinh\CSLT3_23\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\CoSoLapTrinh\CSLT3_23\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\CoSoLapTrinh\CSLT3_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\CoSoLapTrinh\CSLT3_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\CoSoLapTrinh\CSLT3_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\CoSoLapTrinh\CSLT3_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\CoSoLapTrinh\CSLT3_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\CoSoLapTrinh\CSLT3_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\CoSoLapTrinh\CSLT3_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\CoSoLapTrinh\CSLT3_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.User.resources
+D:\CoSoLapTrinh\CSLT3_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\CoSoLapTrinh\CSLT3_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Spend.resources
+D:\CoSoLapTrinh\CSLT3_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.statis.resources
+D:\CoSoLapTrinh\CSLT3_23\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.regis.resources
